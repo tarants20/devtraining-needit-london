@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Test Order Guide">46f7a14edb832300bad29444ca9619be</catalog_item>
+        <catalog_variable>IO:b7a8e94edb832300bad29444ca961939</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-18 10:31:11</sys_created_on>
+        <sys_id>93f8ed4edb832300bad29444ca96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iphone</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_93f8ed4edb832300bad29444ca96196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-18 10:31:11</sys_updated_on>
+        <table/>
+        <ui_policy display_value="test">1cd86d4edb832300bad29444ca96194b</ui_policy>
+        <variable>iphone</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
